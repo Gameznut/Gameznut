@@ -11,11 +11,25 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [http://emmanuelapabiekun.herokuapp.com/](http://emmanuelapabiekun.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://emmanuelapabiekun.vercel.app/](http://emmanuelapabiekun.vercel.app/)
 
 - 💬 Ask me about **vue js, Nuxt js**
 
 - 📫 How to reach me **emmanuelapabiekun@gmail.com**
+
+<ul>
+  <h2>Skills</h2>
+  <li>Fullstack web development (HTML, CSS, JavaScript, Vuejs, Nuxtjs)</li>
+  <li>
+
+Mobile development (Flutter)</li>
+  <li>
+  Database design and management (MongoDB, Firebase)
+  </li> 
+  <li>
+  Backend development (Nodejs, Nestjs)
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
