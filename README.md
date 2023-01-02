@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apabiekun Emmanuel</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Fullstack developer based in Nigeria with a passion for helping businesses and startups bring their ideas to life. Specializing in modernizing old web applications and delivering high-quality results on time and within budget.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameznut&label=Profile%20views&color=0e75b6&style=flat" alt="gameznut" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/__lifeofpablo" target="blank"><img src="https://img.shields.io/twitter/follow/__lifeofpablo?logo=twitter&style=for-the-badge" alt="__lifeofpablo" /></a> </p>
 
-- 🔭 I’m currently working on **gmot**
+- 🔭 I’m currently working on **studiojore**
 
-- 🌱 I’m currently learning **Three js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [http://emmanuelapabiekun.herokuapp.com/](http://emmanuelapabiekun.herokuapp.com/)
 
