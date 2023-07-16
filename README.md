@@ -1,49 +1,55 @@
-<h1 align="center">Hi 👋, I'm Apabiekun Emmanuel</h1>
-<h3 align="center">Fullstack developer based in Nigeria with a passion for helping businesses and startups bring their ideas to life. Specializing in modernizing old web applications and delivering high-quality results on time and within budget.</h3>
+## Hi, I'm Apabiekun Emmanuel! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gameznut&label=Profile%20views&color=0e75b6&style=flat" alt="gameznut" /> </p>
+I'm a highly skilled and experienced Fullstack Developer, dedicated to helping businesses and startups turn their ideas into reality. With a strong passion for technology and innovation, I specialize in modernizing and revitalizing outdated web applications, delivering outstanding results that exceed client expectations.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameznut" alt="gameznut" /></a> </p>
+### What sets me apart:
 
-<p align="left"> <a href="https://twitter.com/__lifeofpablo" target="blank"><img src="https://img.shields.io/twitter/follow/__lifeofpablo?logo=twitter&style=for-the-badge" alt="__lifeofpablo" /></a> </p>
+✨ **Expertise in Fullstack Development:** With proficiency in both frontend and backend technologies, I offer end-to-end solutions that encompass the entire development process. From crafting beautiful and intuitive user interfaces to building scalable and secure backend systems, I ensure seamless integration and optimal performance.
 
-- 🔭 I’m currently working on **studiojore**
+✨ **Attention to Detail:** I believe in the power of pixel-perfect designs and clean, maintainable code. My meticulous approach ensures that every aspect of a project, from visual aesthetics to functionality, is carefully crafted to provide an exceptional user experience.
 
-- 🌱 I’m currently learning **Next.js**
+✨ **Timely Delivery:** I understand the importance of meeting project deadlines. I am committed to delivering high-quality results on time and within budget, ensuring client satisfaction and successful project outcomes.
 
-- 👨‍💻 All of my projects are available at [http://emmanuelapabiekun.vercel.app/](http://emmanuelapabiekun.vercel.app/)
+✨ **Effective Communication:** I value clear and open communication with my clients. I actively listen to their requirements, provide regular updates on progress, and collaborate closely throughout the development process. This ensures that the final product aligns perfectly with their vision and objectives.
 
-- 💬 Ask me about **vue js, Nuxt js**
+### Skills and Technologies:
 
-- 📫 How to reach me **emmanuelapabiekun@gmail.com**
+Here are some of the languages and tools I use in my projects:
 
-<ul>
-  <h2>Skills</h2>
-  <li>Fullstack web development (HTML, CSS, JavaScript, Vuejs, Nuxtjs)</li>
-  <li>
+- HTML5
+  
+- CSS3
 
-Mobile development (Flutter)</li>
-<li>
-  Database design and management (MongoDB, Firebase)
-</li>
-<li>
-  Backend development (Nodejs, Nestjs)
-</li>
-</ul>
+- JavaScript
+  
+- Vue.js
+  
+- Nuxt.js
+  
+- Tailwind CSS
+  
+- Flutter
+  
+- Node.js
+  
+- Nest.js
+  
+- MongoDB
+  
+- Firebase
+  
+- TypeScript
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/dev.to/gameznut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/gameznut" height="30" width="40" /></a>
-  <a href="https://twitter.com/__lifeofpablo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__lifeofpablo" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/emmanuel-apabiekun-72a837209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-apabiekun-72a837209/" height="30" width="40" /></a>
-  <a href="https://instagram.com/life.of_pablo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="life.of_pablo__" height="30" width="40" /></a>
-</p>
+### Let's Connect:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a> </p>
+If you have a project or idea you'd like to discuss, I'd love to hear from you! Feel free to reach out to me through any of the following channels:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameznut&show_icons=true&locale=en&layout=compact" alt="gameznut" /></p>
+🌍 Personal Website: [emmanuelapabiekun.vercel.app](http://emmanuelapabiekun.vercel.app/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gameznut&show_icons=true&locale=en" alt="gameznut" /></p>
+📧 Email: [emmanuelapabiekun@gmail.com]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameznut&" alt="gameznut" /></p>
+👔 LinkedIn: [Emmanuel Apabiekun](https://linkedin.com/in/emmanuel-apabiekun-72a837209/)
+
+🐦 Twitter: [__lifeofpablo](https://twitter.com/__lifeofpablo)
+
+Let's collaborate and bring your ideas to life with cutting-edge technology and exceptional craftsmanship!
